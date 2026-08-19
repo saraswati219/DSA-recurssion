@@ -3,6 +3,8 @@ package com.app;
 import java.security.DomainCombiner;
 import java.util.Scanner;
 
+//using recurssion
+
 public class Factorial {
 	static int factorial(int n) {
 		
